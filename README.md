@@ -1,4 +1,4 @@
 # apnaCollege-Demo
 This is my git
-Author - Jascharan Singh
+Author - Gurpreet loda Singh
 Hi
